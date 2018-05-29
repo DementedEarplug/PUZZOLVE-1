@@ -84,5 +84,6 @@ Final report can be found here:
 
 ## Media Resources Used
 Sprites: Sithjester
+
 Music: https://www.bensound.com
 
