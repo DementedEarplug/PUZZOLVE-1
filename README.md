@@ -15,10 +15,6 @@ The main idea behind this programming language is provide the user with a game-l
 
 ## Project Demo 
 
-<video style="width:100%" controls>
-  <source src="https://drive.google.com/open?id=19gqAPympX067mdW7FWEgq1YA-g07H9_-" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 <iframe width="560" height="315" src="https://drive.google.com/open?id=19gqAPympX067mdW7FWEgq1YA-g07H9_-" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
