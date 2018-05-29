@@ -14,12 +14,14 @@ Implement simple and intuitive syntax.
 The main idea behind this programming language is provide the user with a game-like experience in which the user is able to create puzzles or maps. Each map might have different objects, such as buildings, trees, etc. In addition to the map creation, the user will be able to script the solution of these maps and run these solutions through the programming language. The user would have track of each command via a responsive graphical user interface (GUI) which would respond in real-time line by line.
 
 ## Project Demo 
-![Demo](https://drive.google.com/open?id=19gqAPympX067mdW7FWEgq1YA-g07H9_-)
-<video controls="controls">
-  <source type="video/mp4" src="https://drive.google.com/open?id=19gqAPympX067mdW7FWEgq1YA-g07H9_-"></source>
-  <source type="video/webm" src="https://drive.google.com/open?id=19gqAPympX067mdW7FWEgq1YA-g07H9_-"></source>
-  <p>Your browser does not support the video element.</p>
+
+<video style="width:100%" controls>
+  <source src="https://drive.google.com/open?id=19gqAPympX067mdW7FWEgq1YA-g07H9_-" type="video/mp4">
+Your browser does not support the video tag.
 </video>
+
+<iframe width="560" height="315" src="https://drive.google.com/open?id=19gqAPympX067mdW7FWEgq1YA-g07H9_-" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Language features
 
 ### Educational
